@@ -1,6 +1,6 @@
 # CS691 Computer Science Project
 <h1>Our Project is Promoting Healthy Eating and Balanced Diet with Re-Define Me.<h1/>
-Professor: Henry Wong
+<h2>Professor: Henry Wong
 Computer Science Project CS692
 Our Teammates are
 Maanasa Dharini (Frontend Developer)
@@ -13,4 +13,4 @@ Features:
 Food Classification
 Recipe Generation
 Balanced Diet
-Calorie Estimation.
+Calorie Estimation.<h2/>
