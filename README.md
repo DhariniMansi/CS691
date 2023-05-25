@@ -1,5 +1,5 @@
 # CS691 Computer Science Project
-Our Project is Promoting Healthy Eating and Balanced Diet with Re-Define Me.
+<h1>Our Project is Promoting Healthy Eating and Balanced Diet with Re-Define Me.<h1/>
 Professor: Henry Wong
 Computer Science Project CS692
 Our Teammates are
